@@ -1,3 +1,5 @@
+![image alt](https://github.com/sokunviraksuos-afk/sokunviraksuos-afk/blob/8af9a3f1bda0af71e0cf7191041f98528b4135c2/Banner2.png)
+
 ## Hi, my name is Sokunvirak Suos (but please call me 'Sokun') 👋
 
 - 🌱 Learning HTML, CSS, JS and web development
@@ -22,6 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sokunviraksuos-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
